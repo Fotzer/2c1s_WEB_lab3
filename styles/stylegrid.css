@@ -42,6 +42,10 @@
     
 }
 
+.linklist {
+    padding-left: 20px;
+}
+
 .div3 {
     background-color: #f0f4dc;
     grid-column: span 2;

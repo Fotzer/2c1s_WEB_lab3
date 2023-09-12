@@ -21,6 +21,26 @@
     margin-left: 60%;
 }
 
+.table {
+    width: 100%;
+}
+
+.col1 {
+    width: 25%;
+}
+
+.col2 {
+    width: 50%;
+}
+
+.col3 {
+    width: 25%;
+}
+
+.tddiv2 {
+    height: 50vh;
+}
+
 .div2 {
     background-color: #ffecdc;
     vertical-align: top;
@@ -31,10 +51,18 @@
     padding-left: 20px;
 }
 
+.tddiv3 {
+    height: 5vh;
+}
+
 .div3 {
     background-color: #f0f4dc;
     text-align: center;
     height: 100%;
+}
+
+.tddiv4 {
+    height: 40vh;
 }
 
 .div4 {
@@ -44,11 +72,19 @@
     height: 100%;;
 }
 
+.tddiv5 {
+    height: 45vh;
+}
+
 .div5 {
     background-color: #ffecdc;
     text-align: center;
     width: 100%;
     height: 100%;
+}
+
+.tddiv6 {
+    height: 5vh;
 }
 
 .div6 {

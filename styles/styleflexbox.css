@@ -139,10 +139,14 @@ body {
     .flexbox2 {
         flex-direction: column;
         flex-grow: 1;
+        height: 300px;
     }
     .div2 {
         border-right: 0;
         border-bottom: 1px black solid;
+    }
+    .div4 {
+        flex: 10;
     }
     .div5 {
         border-left: 0;

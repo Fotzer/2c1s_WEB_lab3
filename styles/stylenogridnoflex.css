@@ -90,7 +90,7 @@ table, th, td {
     margin-top: auto; 
     background-color: white;
     text-align: center;
-    height: 100%;;
+    height: 100%;
 }
 
 .tddiv5 {
@@ -133,6 +133,7 @@ table, th, td {
 .lowerbodytable, .lowerbodytable tr, .lowerbodytable td{
     border: none;
 }
+
 .div7 {
     min-height: 26vh;
     border: 1px black solid;

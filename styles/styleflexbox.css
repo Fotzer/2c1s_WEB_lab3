@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+}
+
 .blue {
     background-color: #c8dcf4;
 }
@@ -120,4 +125,27 @@
     flex: 2;
     display: flex;
     flex-direction: column;
+}
+
+@media screen and (max-width: 700px) {
+    .midbody {
+        flex-direction: column;
+        flex-grow: 1;
+    }
+    .flexbox0 {
+        flex-direction: column;
+        flex-grow: 1;
+    }
+    .flexbox2 {
+        flex-direction: column;
+        flex-grow: 1;
+    }
+    .div2 {
+        border-right: 0;
+        border-bottom: 1px black solid;
+    }
+    .div5 {
+        border-left: 0;
+        border-top: 1px black solid;
+    }
 }
